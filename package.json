@@ -1,0 +1,15 @@
+{
+  "name": "todolist-thicode",
+  "version": "1.0.0",
+  "description": "Projeto para Aprender NodeJs Express EJS MVC, ministrado por Thi Code no YouTube",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "João Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
